@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">N@OMY GROUP CORPORATION S.A.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="user">correo@correo.com</string>
+    <string name="password">Contraseña *****</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="register">Registrarme</string>
+    <string name="doc">DNI o RUC</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellido">Apellido Paterno</string>
+    <string name="apellidom">Apellido Materno</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Telefono</string>
+    <string name="reconect">Reconectar</string>
+    <string name="iniciando">Iniciando Sesion</string>
+    <string name="title_activity_opciones">OpcionesActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="contacto">Contacto</string>
+    <string name="pag">Pagina</string>
+    <string name="agart">Agregar Bienes y Servicios</string>
+    <string name="vart">Mostrar Articulos</string>
+    <string name="vserv">Mostrar Servicios</string>
+    <string name="vpreven">Ver Pre-Ventas</string>
+    <string name="vposven">Ver Post-Ventas</string>
+    <string name="vprecom">Ver Pre-Compras</string>
+    <string name="vposcom">Ver Post-Compras</string>
+    <string name="verart">Ver Articulos</string>
+    <string name="vermiprecom">Ver Mis Pre-Compras</string>
+    <string name="vermipreven">Ver Mis Pre-Ventas</string>
+    <string name="vermicom">Ver Mis Compras</string>
+    <string name="vermiven">Ver Mis Ventas</string>
+    <string name="nombres">Nombre</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="precio">Precio</string>
+    <string name="vender">Vender</string>
+    <string name="reg">Registrar</string>
+    <string name="comp">Comprar</string>
+    <string name="verserv">Ver Servicios</string>
+    <string name="datosc">Datos del Comprador</string>
+    <string name="fecha">fecha</string>
+    <string name="todo">TODO</string>
+    <string name="llamar">Llamar</string>
+    <string name="venart">Vender Articulos</string>
+    <string name="datosv">Datos del Vendedor</string>
+</resources>

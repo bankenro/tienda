@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:visible="false"
+        android:id="@+id/administrador"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/agart"
+            android:icon="@drawable/compra_agregar"
+            android:title="@string/agart" />
+        <item
+            android:id="@+id/vart"
+            android:icon="@drawable/laptop"
+            android:title="@string/vart" />
+        <item
+            android:id="@+id/vserv"
+            android:icon="@drawable/computermal"
+            android:title="@string/vserv" />
+        <item
+            android:id="@+id/vpreven"
+            android:icon="@drawable/compra_retenida"
+            android:title="@string/vpreven" />
+        <item
+            android:id="@+id/vposven"
+            android:icon="@drawable/compra_exitosa"
+            android:title="@string/vermiven" />
+        <item
+            android:id="@+id/vprecom"
+            android:icon="@drawable/compra_retenida"
+            android:title="@string/vprecom" />
+        <item
+            android:id="@+id/vposcom"
+            android:icon="@drawable/compra_exitosa"
+            android:title="@string/vermicom" />
+    </group>
+
+    <group
+        android:id="@+id/cliente"
+        android:visible="false"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/venart"
+            android:icon="@drawable/compra_agregar"
+            android:title="@string/venart" />
+        <item
+            android:id="@+id/verart"
+            android:icon="@drawable/laptop"
+            android:title="@string/verart" />
+        <item
+            android:id="@+id/verserv"
+            android:icon="@drawable/computermal"
+            android:title="@string/verserv" />
+        <item
+            android:id="@+id/vermiprecom"
+            android:icon="@drawable/compra_retenida"
+            android:title="@string/vermiprecom" />
+        <item
+            android:id="@+id/vermipreven"
+            android:icon="@drawable/compra_retenida"
+            android:title="@string/vermipreven" />
+        <item
+            android:id="@+id/vermicom"
+            android:icon="@drawable/compra_exitosa"
+            android:title="@string/vermicom" />
+        <item
+            android:id="@+id/vermiven"
+            android:icon="@drawable/compra_exitosa"
+            android:title="@string/vermiven" />
+    </group>
+
+    <item android:title="@string/contacto">
+        <menu>
+            <item
+                android:id="@+id/contacto"
+                android:icon="@drawable/contac"
+                android:title="@string/pag" />
+            <item
+                android:id="@+id/cerrar"
+                android:icon="@drawable/salir"
+                android:title="@string/cerrar" />
+        </menu>
+    </item>
+</menu>
